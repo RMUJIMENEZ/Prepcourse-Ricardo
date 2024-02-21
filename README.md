@@ -1,2 +1,1 @@
-# Prepcourse-Ricardo
-Repositorio de prueba del prepcourse de Ricardo
+Este proyecto es una prueba de como crear un repositorio desde github y trasladarlo a mi repositorio local.
